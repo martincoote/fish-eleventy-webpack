@@ -1,0 +1,18 @@
+---
+layout: default
+pagination:
+    data: members
+    size: 1
+    alias: member
+permalink: "members/{{ member.name | slug }}/"
+---
+
+<h1>{{ member.name }}</h1>
+
+{% if member.tag %}
+    <h2>"{{ member.tag }}"</h2>
+{% endif %}
+
+{% if member.bio %}
+    {{ member.bio | markdown | safe }}
+{% endif %}

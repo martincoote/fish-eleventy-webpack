@@ -1,0 +1,19 @@
+---
+layout: default
+permalink: "songs/"
+eleventyNavigation:
+  key: Songs
+---
+
+<ul>
+  {% for song in songlist | sort(false, false, "name") %}
+    <li>
+      <a href="{{ song.slug }}">{{ song.name }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<dl>
+  <dt>Song count:</dt>
+  <dd>{{ songlist.length }}</dd>
+</dl>

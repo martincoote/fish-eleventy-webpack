@@ -13,19 +13,43 @@ body {
 body {
   color: $blue;
   background-color: $bg-body;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
+  display: grid;
+  grid-template-areas: "nav" "main" "footer";
+  grid-template-rows: auto 1fr auto;
+  min-height: 100vh;
 }
 
 main {
+  max-width: 60rem;
+  margin: 0 auto;
+  grid-area: main;
   display: flex;
+  flex-flow: column nowrap;
+  align-items: flex-start;
   flex-grow: 1;
-  align-items: center;
 
   img {
     width: 6rem;
   }
+}
+
+header {
+  display: grid;
+  grid-template-columns: 1fr auto;
+
+  ul {
+    display: flex;
+    flex-flow: row nowrap;
+    list-style-type: none;
+
+    > * + * {
+      margin-left: 1rem;
+    }
+  }
+}
+
+footer {
+  grid-area: footer;
 }
 
 img {

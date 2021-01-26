@@ -1,0 +1,233 @@
+[
+  {
+    "singers": ["Dan"],
+    "name": "Mingulay Boat Song",
+    "slug": "mingulay"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Paddy on the Railway",
+    "slug": "paddy"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Sally Brown",
+    "slug": "sally-brown"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Fiddler's Green",
+    "slug": "fiddlers-green"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Rolling Down to Old Maui",
+    "slug": "old-maui"
+  },
+  {
+    "singers": [
+      "Dan",
+      "Steve"
+    ],
+    "name": "All for Me Grog",
+    "slug": "grog"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Home Boys Home",
+    "slug": "home-boys-home"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Blood Red Roses",
+    "slug": "blood-red-roses"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Farewell to Carlingford",
+    "slug": "carlingford"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Eliza Lee",
+    "slug": "eliza-lee"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Bonny Ship the Diamond",
+    "slug": "bonny-ship-diamond"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "General Taylor",
+    "slug": "general-taylor"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Spanish Ladies",
+    "slug": "spanish-ladies"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Bully in the Alley",
+    "slug": "bully-alley"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Eagle Alley",
+    "slug": "eagle-alley"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Row On",
+    "slug": "row-on"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Back and Sides Go Bare",
+    "slug": "back-and-sides"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Anderson's Coast",
+    "slug": "andersons-coast"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Noah's Ark Shanty",
+    "slug": "noahs-ark-shanty"
+  },
+  {
+    "singers": ["Rich"],
+    "name": "Hullabaloo Belay",
+    "slug": "hullabaloo-belay"
+  },
+  {
+    "singers": ["Rich"],
+    "name": "Shiver My Timbers",
+    "slug": "shiver-my-timbers"
+  },
+  {
+    "singers": ["Rich"],
+    "name": "Sailor Ain't a Sailor",
+    "slug": "sailor-aint-a-sailor"
+  },
+  {
+    "singers": ["Rich"],
+    "name": "Frobisher Bay",
+    "slug": "frobisher-bay"
+  },
+  {
+    "singers": ["Rich"],
+    "name": "Northwest Passage",
+    "slug": "northwest-passage"
+  },
+  {
+    "singers": ["Rich"],
+    "name": "Magellan",
+    "slug": "magellan"
+  },
+  {
+    "singers": ["Rich"],
+    "name": "Roseanna",
+    "slug": "roseanna"
+  },
+  {
+    "singers": ["Josh"],
+    "name": "Greenland Whale Fisheries",
+    "slug": "greenland"
+  },
+  {
+    "singers": ["Josh"],
+    "name": "Barrett's Privateers",
+    "slug": "barretts-privateers"
+  },
+  {
+    "singers": ["Josh"],
+    "name": "Rollicking Randy Dandy Oh",
+    "slug": "randy-dandy-oh"
+  },
+  {
+    "singers": ["Josh"],
+    "name": "Two Recruiting Sergeants",
+    "slug": "recruiting-sergeants"
+  },
+  {
+    "singers": ["Martin"],
+    "name": "A Day in the Life",
+    "slug": "day-in-life"
+  },
+  {
+    "singers": ["Martin"],
+    "name": "Weary Whaling Ground",
+    "slug": "weary-whaling-ground"
+  },
+  {
+    "singers": ["Lisa"],
+    "name": "The Mermaid",
+    "slug": "mermaid"
+  },
+  {
+    "singers": [
+      "Lisa",
+      "Melodye"
+    ],
+    "name": "Leave Her Johnny",
+    "slug": "leave-her-johnny"
+  },
+  {
+    "singers": [
+      "Lisa",
+      "Naomi"
+    ],
+    "name": "Swig the Flowing Can",
+    "slug": "flowing-can"
+  },
+  {
+    "singers": ["Melodye"],
+    "name": "Twiddly Aye",
+    "slug": "twiddly-aye"
+  },
+  {
+    "singers": ["Melodye"],
+    "name": "Rolling Sea",
+    "slug": "rolling-sea"
+  },
+  {
+    "singers": [
+      "Naomi",
+      "Steve"
+    ],
+    "name": "Strike the Bell",
+    "slug": "strike-the-bell"
+  },
+  {
+    "singers": [
+      "Lisa",
+      "Naomi",
+      "Melodye"
+    ],
+    "name": "Drinking Song from the Tomb",
+    "slug": "drinking-song"
+  },
+  {
+    "singers": [
+      "Lisa",
+      "Naomi",
+      "Melodye"
+    ],
+    "name": "Ballad of the White Seal Maid",
+    "slug": "white-seal-maid",
+    "lyrics": "There's a fisherman sitting alone on the land.\n\nHis hands are his craft; his boat is his art.\n\nA fisherman sitting alone on the land,\n\nA rock, a hard rock, in his heart.\n\n---\n\nThere's a silkie maid swimming alone in the bay.\n\nHer eyes are the seals, her heart is the sea.\n\nA silkie maid swimming alone in the bay,\n\nA pure white seal maiden is she.\n\n---\n\nShe comes out on the shore, and she sheds her seal skin.\n\nShe dances on sand, dances under the moon.\n\nHer hair falls in waves down upon her white skin,\n\nAnd only the seals hear the tune.\n\n---\n\nLa la la la la…\n\n---\n\nThen, standing, the fisherman takes the seal skin.\n\nHe's staking his claim to a wife from the sea.\n\nHe raises his hand holding up the seal skin,\n\nSaying, now you must come home with me.\n\n---\n\nOh, weeping she goes, and still weeping she stays.\n\nHer hands are her craft, her babes are her art.\n\nA year, a year, and a year more she stays.\n\nA rock, a hard rock, in her heart.\n\n---\n\nBut what is this hid in the fisherman's bag?\n\nIt smells of the ocean, it feels like the sea.\n\nA bonny white seal skin closed up in the bag,\n\nAnd never a tear more cries she.\n\n---\n\nIt's goodbye to the house, and goodbye to the shore;\n\nGoodbye to the babes that I never could claim.\n\nBut never a thought for the man left on shore,\n\nFor silkie's my nature and name.\n\n---\n\nShe puts on the seal skin and dives into the waves.\n\nThe fisherman's cry falls on water-deaf ears.\n\nShe swims in the seal skin away out to sea,\n\nAnd the fisherman drowns in his tears.\n\n"
+  },
+  {
+    "singers": ["Steve"],
+    "name": "Derby Ram",
+    "slug": "derby-ram"
+  },
+  {
+    "singers": [ "Dave" ],
+    "name": "Fire Marengo",
+    "slug": "fire-marengo"
+  }
+]

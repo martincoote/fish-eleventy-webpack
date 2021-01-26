@@ -1,0 +1,14 @@
+---
+layout: default
+permalink: "members/"
+eleventyNavigation:
+  key: Members
+---
+
+<ul>
+  {% for member in members %}
+    <li>
+      <a href="{{ member.name | slug }}">{{ member.name }}</a>
+    </li>
+  {% endfor %}
+</ul>

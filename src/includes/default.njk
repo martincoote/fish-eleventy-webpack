@@ -18,6 +18,10 @@
     <link rel="stylesheet" href="{% webpack 'main.css' %}">
   </head>
   <body class="{{ bodyClass }}">
+    <header>
+      <h1>The Falmouth Fish</h1>
+      {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+    </header>
     <main>
       {{ content | safe }}
     </main>
